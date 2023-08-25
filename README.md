@@ -1,6 +1,6 @@
 Busy Life
 -
-- 🏢 Work as BI Dev in a Bank 2600$ yearly
+- 🏢 Work as Data Analytic in Alpha Bank
 - 🔭 I’m currently learning LR Matrix Decompositions
 
 Languages
