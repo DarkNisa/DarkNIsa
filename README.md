@@ -1,6 +1,6 @@
 Busy Life
 -
-- 🏢 Work as Data Analytic in Alpha Bank
+- 🏢 Work as Data Analytic in Alfa Bank
 - 🔭 I’m currently learning LR Matrix Decompositions
 
 Languages
