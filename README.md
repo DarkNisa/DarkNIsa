@@ -2,6 +2,7 @@ Busy Life
 -
 - 🏢 Work as Data Analytic in Alfa Bank
 - 🔭 I’m currently learning LR Matrix Decompositions
+- 2 years of commercial experience in BI in 2 out of top 5 Belarusian Banks
 
 Languages
 -
